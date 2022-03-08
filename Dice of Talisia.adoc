@@ -1,0 +1,61 @@
+Dice of Talisia
+===============
+:Author: Chase Steenbock
+:Email: chase.steenbock@gmail.com
+:Date: March 7, 2022
+:Revision: 0.0.1
+
+Basics
+------
+Each class has a set of class-specific dice. Each set can vary in number and type of dice as well as symbols/numbers on the dice themselves. When you roll you can add up your attack points and/or special ability points to use those. You can do basic attacks or use your ability cards.
+
+At the beginning of the game you randomly pick a number of monster cards and a single boss card. Shuffle the monsters and put the boss on the bottom. Flip each monster and fight it. Beat the boss to win. The group works together.
+
+Classes
+-------
+Knight
+~~~~~~
+Basic fighter
+
+Cleric
+~~~~~~
+Basic healer
+
+Mage
+~~~~
+Basic magic user
+
+Conjurer
+~~~~~~~~
+Can create objects/items
+
+Alchemist
+~~~~~~~~~
+Uses potions to enhance or hinder
+
+Ranger
+~~~~~~
+Ranged fighter with a summonable pet
+
+Races
+-----
+Human
+~~~~~
+
+Elf
+~~~
+
+Dwarf
+~~~~~
+Ssrik (lizard people)
+~~~~~~~~~~~~~~~~~~~~~
+
+////
+Notes
+-----
+- Abilities only used once per battle
+- Race- AND class-specific abilities (choose a certain number at the beginning or just a deck or a small number?)
+- Items/equipment?
+////
+
+Version {revision}
